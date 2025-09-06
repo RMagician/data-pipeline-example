@@ -1,0 +1,8 @@
+﻿[project]
+name = "data_pipeline"
+version = "0.1.0"
+description = "Python-first ELT pipeline: Bronzeâ†’Silver in Python, Silverâ†’Gold in Postgres"
+requires-python = ">=3.10"
+
+[tool]
+# add black/ruff/pytest configs as needed

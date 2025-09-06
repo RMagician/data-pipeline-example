@@ -1,0 +1,1 @@
+﻿-- Drop/truncate temp tables
